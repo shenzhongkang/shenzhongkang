@@ -19,7 +19,7 @@
 
 <div align="center">
     <h1>
-        <a href="https://github.com/shenzhonkang">
+        <a href="https://github.com/shenzhongkang">
             <img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenzhongkang&theme=nord&exclude_repo=diary,shenzhongkang.github.io,binfiles&hide_border=true" />
         </a>
         <a href="https://github.com/shenzhongkang">
