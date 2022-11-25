@@ -1,7 +1,7 @@
 <h1 align='center'>Hi👋 I'm Zhongkang Shen!</h1>
 
  - 🌱 I’m currently learning TypeScript.
- - 📫 How to reach me: [e-mail](mailto:szk1033743385@gmail.com) / [Twitter](https://twitter.com/1033743385))
+ - 📫 How to reach me: [e-mail](mailto:szk1033743385@gmail.com) / [Twitter](https://twitter.com/shenzhongkang))
  - 💬 Ask me about whatever you want!
 
 <div align="center">
@@ -11,7 +11,7 @@
   [![Editor:VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
   
   [![email](https://img.shields.io/badge/Email-szk1033743385@gmail.com-red?style=flat-square&logo=gmail)](mailto:szk1033743385@gmail.com)
-  [![Twitter:1033743385](https://img.shields.io/badge/Twitter-ShenZhongkang-lightblue?style=flat-square&logo=twitter)](https://twitter.com/1033743385)
+  [![Twitter:1033743385](https://img.shields.io/badge/Twitter-ShenZhongkang-lightblue?style=flat-square&logo=twitter)](https://twitter.com/shenzhongkang)
   
 </div>
 
