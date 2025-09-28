@@ -1,4 +1,4 @@
-<h1 align='center'>Hi👋 I'm Zhongkang Shen!</h1>
+<h1 align='center'>Hi👋 I'm Ethan Shen!</h1>
 
  - 🌱 I’m currently learning TypeScript.
  - 📫 How to reach me: [e-mail](mailto:szk1033743385@gmail.com) / [Twitter](https://twitter.com/shenzhongkang))
